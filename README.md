@@ -1,1 +1,1 @@
-# accounts
+# Developing a banking system with only core modules
