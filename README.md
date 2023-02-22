@@ -3,10 +3,6 @@
 </h3>
 
 <p align="center">
-  <a href="#-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ivaniltonneto/accounts">
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ivaniltonneto/accounts">
